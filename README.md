@@ -1,5 +1,5 @@
 # CONTROL-SURVEY-PROJECT-GROUP-14
-semi-graphical fix for computation of final co-ordinate
+This python code was done through rigorous research that was done by group 14 members.....the code was made to be user friendly 
 # Surveying Computation Suite
 
 A comprehensive Python toolkit for surveying computations including coordinate adjustment, error analysis, and network adjustment using rigorous least squares methods.
