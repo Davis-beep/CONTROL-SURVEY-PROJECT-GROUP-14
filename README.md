@@ -34,5 +34,6 @@ This suite implements classical surveying computation methods with modern numeri
 - **Residual Plots**: Analysis of observation quality
 - **Professional Tables**: Formatted output matching field book standards
 
+#sample explainer![pic](https://github.com/user-attachments/assets/6e91d3dd-966f-4364-b50f-da779a587c4c)
 
 
