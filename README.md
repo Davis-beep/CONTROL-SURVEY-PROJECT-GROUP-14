@@ -30,10 +30,9 @@ This suite implements classical surveying computation methods with modern numeri
 
 ### 4. Visualization & Reporting
 - **Cartesian Plots**: Cut lines with intersection point
-- **Error Ellipses**: Confidence regions for adjusted position (optional)
+- 
 - **Residual Plots**: Analysis of observation quality
 - **Professional Tables**: Formatted output matching field book standards
 
-## Mathematical Formulations
 
-### Coordinate Transformation
+
